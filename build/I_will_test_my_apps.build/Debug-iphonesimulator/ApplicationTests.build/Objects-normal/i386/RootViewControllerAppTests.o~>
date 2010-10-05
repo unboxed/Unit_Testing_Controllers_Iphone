@@ -1,0 +1,53 @@
+In file included from /Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:17:
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:10:31: error: RootViewController.h: No such file or directory
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:11:43: error: I_will_test_my_appsAppDelegate.h: No such file or directory
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:13:32: error: CoreDataStackHelper.h: No such file or directory
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:14:24: error: TestHelpers.h: No such file or directory
+In file included from /Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:17:
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:18: error: expected specifier-qualifier-list before 'I_will_test_my_appsAppDelegate'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:19: error: expected specifier-qualifier-list before 'RootViewController'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:20: error: expected specifier-qualifier-list before 'CoreDataStackHelper'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h:21: error: expected specifier-qualifier-list before 'TestHelpers'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m: In function '-[RootViewControllerAppTests setUp]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:25: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:25: error: (Each undeclared identifier is reported only once
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:25: error: for each function it appears in.)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:25: error: 'CoreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:26: error: 'rootController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:26: error: 'RootViewController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:27: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:27: error: 'TestHelpers' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m: In function '-[RootViewControllerAppTests tearDown]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:33: error: 'rootController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:34: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:35: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m: In function '-[RootViewControllerAppTests testNumberOfSectionsInTableView]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:54: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:55: error: 'rootController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:55: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m: In function '-[RootViewControllerAppTests testNumberOfRowsInTableView]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:75: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:76: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:77: error: 'rootController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m: In function '-[RootViewControllerAppTests testCellTextIsUsingTextProperty]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:104: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:105: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:106: error: 'RootViewController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:106: error: 'controller' undeclared (first use in this function)
+cc1obj: warnings being treated as errors
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:118: warning: 'NSIndexPath' may not respond to '+indexPathForRow:inSection:'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:118: warning: (Messages without a matching method signature
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:118: warning: will be assumed to return 'id' and accept
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:118: warning: '...' as arguments.)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:119: warning: 'NSIndexPath' may not respond to '+indexPathForRow:inSection:'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:120: error: 'UITableViewCell' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:120: error: 'cell0' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:121: error: 'cell1' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m: In function '-[RootViewControllerAppTests testCommitEditingStyle_deleteRow]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:136: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:137: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:138: error: 'RootViewController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:138: error: 'controller' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:149: error: 'UITableViewCellEditingStyleDelete' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:149: warning: 'NSIndexPath' may not respond to '+indexPathForRow:inSection:'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.m:151: error: 'rootController' undeclared (first use in this function)

@@ -1,0 +1,29 @@
+In file included from /Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:17:
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:10:31: error: RootViewController.h: No such file or directory
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:11:43: error: I_will_test_my_appsAppDelegate.h: No such file or directory
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:13:32: error: CoreDataStackHelper.h: No such file or directory
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:14:24: error: TestHelpers.h: No such file or directory
+In file included from /Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:17:
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:18: error: expected specifier-qualifier-list before 'I_will_test_my_appsAppDelegate'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:19: error: expected specifier-qualifier-list before 'RootViewController'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:20: error: expected specifier-qualifier-list before 'CoreDataStackHelper'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h:21: error: expected specifier-qualifier-list before 'TestHelpers'
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m: In function '-[RootViewControllerTests setUp]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:32: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:32: error: (Each undeclared identifier is reported only once
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:32: error: for each function it appears in.)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:32: error: 'CoreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:33: error: 'rootController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:33: error: 'RootViewController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:34: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:34: error: 'TestHelpers' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m: In function '-[RootViewControllerTests tearDown]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:40: error: 'rootController' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:41: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:42: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m: At top level:
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:48: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m: In function '-[RootViewControllerTests testNumberOfRowsInTableView]':
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:82: error: 'coreDataStackHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:83: error: 'testsHelper' undeclared (first use in this function)
+/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m:84: error: 'rootController' undeclared (first use in this function)

@@ -1,0 +1,300 @@
+TI_will_test_my_apps copy
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C3671890000000000000110
+t1278636425
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFE083F00000000002F6980
+t1274939455
+s3107200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFE082E000000000000046B
+t1274939438
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/Availability.h
+c000000004BF4D50E0000000000001A3B
+t1274336526
+s6715
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.h
+c000000004C73C0A80000000000000402
+t1282654376
+s1026
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.m
+c000000004C73C0A80000000000001F88
+t1282654376
+s8072
+i"I_will_test_my_appsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.h
+c000000004C76C0450000000000000268
+t1282850885
+s616
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.m
+c000000004C76DBB200000000000031D8
+t1282857906
+s12760
+i"RootViewController.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/I_will_test_my_apps.xcdatamodeld
+c000000004C73C3280000000000000088
+t1282655016
+s136
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/I_will_test_my_apps_Prefix.pch
+c000000004C73C0A8000000000000017B
+t1282654376
+s379
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/MainWindow.xib
+c000000004C73C0A80000000000006024
+t1282654376
+s24612
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.h
+c000000004C73C278000000000000014E
+t1282654840
+s334
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.m
+c000000004C73C27800000000000000EE
+t1282654840
+s238
+i"Note.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/RootViewController.xib
+c000000004C73C0A8000000000000445E
+t1282654376
+s17502
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app.dSYM
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/I_will_test_my_apps
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/I_will_test_my_apps.momd
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/Info.plist
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/MainWindow.nib
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/PkgInfo
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/ResourceRules.plist
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/RootViewController.nib
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/I_will_test_my_apps
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/I_will_test_my_apps.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/I_will_test_my_appsAppDelegate.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/Note.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/I_will_test_my_apps
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/I_will_test_my_apps.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/I_will_test_my_appsAppDelegate.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/Note.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/main.m
+c000000004C73C0A8000000000000017E
+t1282654376
+s382
+i<UIKit/UIKit.h>
+
+N/Users/borja_old/Library/MobileDevice/Provisioning Profiles/7326DA8F-A8E0-4AFC-86F2-AE652713A6B7.mobileprovision
+c000000004C4C52FC0000000000004060
+t1280070396
+s16480
+
+N/var/folders/w7/w7Zkm9twF94pX+4YWl-sVk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/I_will_test_my_apps_Prefix-affoufbmkbgoywfnjcavpvjthfgt/I_will_test_my_apps_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/w7/w7Zkm9twF94pX+4YWl-sVk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/I_will_test_my_apps_Prefix-djjhdeulsmgjridmkhhrupimombn/I_will_test_my_apps_Prefix.pch.gch
+t2
+s0
+
+NI_will_test_my_apps-Info copy.plist
+c000000004C73C0A8000000000000038D
+t1282654376
+s909
+
+CCodeSign "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app"
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/I_will_test_my_appsAppDelegate.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/Note.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/RootViewController.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/main.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/I_will_test_my_appsAppDelegate.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/Note.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/RootViewController.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/main.o" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/RootViewController.xib"
+r0
+
+CCpResource build/Debug-iphoneos/I_will_test_my_apps.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/I_will_test_my_apps" normal "armv6 armv7"
+r0
+
+CDataModelVersionCompile "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/I_will_test_my_apps.momd" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/I_will_test_my_apps.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app.dSYM" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/I_will_test_my_apps"
+r0
+
+CLd "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv6/I_will_test_my_apps" normal armv6
+r0
+
+CLd "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/Objects-normal/armv7/I_will_test_my_apps" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/Info.plist" "I_will_test_my_apps-Info copy.plist"
+r0
+
+CProcessPCH /var/folders/w7/w7Zkm9twF94pX+4YWl-sVk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/I_will_test_my_apps_Prefix-affoufbmkbgoywfnjcavpvjthfgt/I_will_test_my_apps_Prefix.pch.gch I_will_test_my_apps_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/w7/w7Zkm9twF94pX+4YWl-sVk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/I_will_test_my_apps_Prefix-djjhdeulsmgjridmkhhrupimombn/I_will_test_my_apps_Prefix.pch.gch I_will_test_my_apps_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/borja_old/Library/MobileDevice/Provisioning Profiles/7326DA8F-A8E0-4AFC-86F2-AE652713A6B7.mobileprovision" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/I_will_test_my_apps copy.build/I_will_test_my_apps.xcent"
+r0
+
+CTouch "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/I_will_test_my_apps.app"
+r0
+

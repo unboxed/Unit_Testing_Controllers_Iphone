@@ -1,0 +1,332 @@
+TLogicTests
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C3671890000000000000110
+t1278636425
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004BFE174E00000000000008A5
+t1274943310
+s2213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFE083F00000000002F6980
+t1274939455
+s3107200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFE082E000000000000046B
+t1274939438
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/CoreDataStackHelper.h
+c000000004CA8B0B20000000000000466
+t1286123698
+s1126
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/CoreDataStackHelper.m
+c000000004CA9EC50000000000000199D
+t1286204496
+s6557
+i"CoreDataStackHelper.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.h
+c000000004CA8D30900000000000004DD
+t1286132489
+s1245
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"CoreDataStackHelper.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.m
+c000000004CA9A4720000000000002033
+t1286186098
+s8243
+i"I_will_test_my_appsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.h
+c000000004C7A4C740000000000000280
+t1283083380
+s640
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.m
+c000000004CA9EB2200000000000032D8
+t1286204194
+s13016
+i"RootViewController.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/ApplicationTests/RootViewControllerAppTests.h
+c000000004CAAE7CB0000000000000284
+t1286268875
+s644
+i<SenTestingKit/SenTestingKit.h>
+i"RootViewController.h"
+i"I_will_test_my_appsAppDelegate.h"
+i<CoreData/CoreData.h>
+i"CoreDataStackHelper.h"
+i"TestHelpers.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/Helpers/TestHelpers.h
+c000000004CAAE9E30000000000000257
+t1286269411
+s599
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/Helpers/TestHelpers.m
+c000000004CAAEA5D0000000000001127
+t1286269533
+s4391
+i"TestHelpers.h"
+i<CoreData/CoreData.h>
+i"RootViewControllerAppTests.h"
+i"RootViewController.h"
+i"I_will_test_my_appsAppDelegate.h"
+i<CoreData/CoreData.h>
+i"CoreDataStackHelper.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.h
+c000000004CAAEC9E0000000000000268
+t1286270110
+s616
+i<SenTestingKit/SenTestingKit.h>
+i"RootViewController.h"
+i"I_will_test_my_appsAppDelegate.h"
+i<CoreData/CoreData.h>
+i"CoreDataStackHelper.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m
+c000000004CAAECD70000000000000F0F
+t1286270167
+s3855
+i"RootViewControllerTests.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/I_will_test_my_apps.xcdatamodeld
+c000000004C73C3280000000000000088
+t1282655016
+s136
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/MainWindow.xib
+c000000004C73C0A80000000000006024
+t1282654376
+s24612
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.h
+c000000004C73C278000000000000014E
+t1282654840
+s334
+i<CoreData/CoreData.h>
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.m
+c000000004C73C27800000000000000EE
+t1282654840
+s238
+i"Note.h"
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/RootViewController.xib
+c000000004C73C0A8000000000000445E
+t1282654376
+s17502
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest.dSYM
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/I_will_test_my_apps.momd
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/Info.plist
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/LogicTests
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/MainWindow.nib
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/RootViewController.nib
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/CoreDataStackHelper.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/I_will_test_my_appsAppDelegate.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/LogicTests
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/LogicTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/Note.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/RootViewControllerTests.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/TestHelpers.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/CoreDataStackHelper.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/I_will_test_my_appsAppDelegate.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/Note.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/RootViewControllerTests.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/TestHelpers.o
+t2
+s0
+
+N/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Script-E6F3528412294347005E3385.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NLogicTests-Info.plist
+c000000004C790BC70000000000000281
+t1283001287
+s641
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/CoreDataStackHelper.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/CoreDataStackHelper.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/I_will_test_my_appsAppDelegate.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/Note.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/RootViewController.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/RootViewControllerTests.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/TestHelpers.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/Helpers/TestHelpers.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/CoreDataStackHelper.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/CoreDataStackHelper.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/I_will_test_my_appsAppDelegate.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/I_will_test_my_appsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/Note.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Note.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/RootViewController.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/RootViewControllerTests.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/LogicTests/RootViewControllerTests.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/TestHelpers.o "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/Classes/Tests/Helpers/TestHelpers.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/RootViewController.xib"
+r0
+
+CCreateUniversalBinary "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/LogicTests" normal "armv6 armv7"
+r0
+
+CDataModelVersionCompile "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/I_will_test_my_apps.momd" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/I_will_test_my_apps.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest.dSYM" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/LogicTests"
+r0
+
+CLd "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/LogicTests" normal armv6
+r0
+
+CLd "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests" normal armv7
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/I_will_test_my_apps.build/Debug-iphoneos/LogicTests.build/Script-E6F3528412294347005E3385.sh"
+r0
+
+CProcessInfoPlistFile "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest/Info.plist" LogicTests-Info.plist
+r0
+
+CTouch "/Users/borja_old/Documents/Xcode Projects/I_will_test_my_apps/build/Debug-iphoneos/LogicTests.octest"
+r0
+
